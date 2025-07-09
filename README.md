@@ -1,4 +1,4 @@
-# deepseek-llm
+# llm
 
 A minimal, modular, and fully-trainable PyTorch implementation of a DeepSeek-style Large Language Model (LLM), built from scratch for research, learning, and experimentation.
 
